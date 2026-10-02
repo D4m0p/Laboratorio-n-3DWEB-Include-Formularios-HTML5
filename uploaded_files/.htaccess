@@ -1,0 +1,3 @@
+# Bloquea el acceso desde el navegador a las fotos de los aspirantes.
+# PHP sí puede leer y escribir en la carpeta porque trabaja directo sobre el disco.
+Require all denied
